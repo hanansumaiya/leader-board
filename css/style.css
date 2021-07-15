@@ -350,6 +350,11 @@ hr {
         flex-direction: column;
     }
 
+    .players .player h3 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
     .blogs-section {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
